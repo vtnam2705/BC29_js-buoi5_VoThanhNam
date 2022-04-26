@@ -83,10 +83,6 @@ document.getElementById("btn-console").onclick = function () {
     Số người phụ thuộc (C)
     Thuế thu nhập (T)
 
-    Xử lý:
-        + Nếu 0 < A <= 60 => T = A * 5%
-
-        + Nếu 60 < A <= 120 => T = A * 
 */
 const a = 4e+6;
 const b = 1.6e+6;
